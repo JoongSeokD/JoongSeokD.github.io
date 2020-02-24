@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -19,7 +19,7 @@ locale                   : "en"
 title                    : "JoongSeokD의 생존코딩"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "JoongSeokD의 생존코딩""
+name                     : "JoongSeokD의 생존코딩"
 description              : "일하면서 겪은 일, 공부하는 내용을 위주로 포스팅 하는 이중석입니다."
 url                      : "https://JoongSeokD.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
